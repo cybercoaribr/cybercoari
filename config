@@ -1,5 +1,5 @@
 {
-  "Version":"0",
+  "Version":"1",
   "Update":"https://raw.githubusercontent.com/cybercoaribr/cybercoari/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/cybercoaribr/cybercoari/main/sms",
