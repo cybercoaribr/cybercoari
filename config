@@ -1,8 +1,8 @@
 {
-  "Version":"1",
-  "Update":"https://raw.githubusercontent.com/cybercoaribr/cybercoari/refs/heads/main/config",
+  "Version":"2",
+  "Update":"https://raw.githubusercontent.com/cybercoaribr/cybercoari/main/config",
   "UdpPort":"7300",
-  "Sms":"https://raw.githubusercontent.com/cybercoaribr/cybercoari/refs/heads/main/sms",
+  "Sms":"https://raw.githubusercontent.com/cybercoaribr/cybercoari/main/sms",
   "UpdateApk": ".",
   "Contato":"https://t.me/cybercoari",
   "Site":"https://www.speedtest.net",
