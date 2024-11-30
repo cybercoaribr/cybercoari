@@ -89,8 +89,8 @@
          "FLAG":"https://cybercoari.com.br/imagens/vivo.png",
          "Info":"Proxy",
          "Name":"VIVO",
-         "Payload":"GET / HTTP/1.1[crlf]Host: d16zljb8cqaetp.cloudfront.net[crlf] [crlf]Upgrade: Websocket[crlf][crlf]",
-         "ProxyIP":"apps.cybercoari.com.br",
+         "Payload":"GET /cybercoari HTTP/1.1[crlf]Host: [random=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]#GET /cybercoari HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
+         "ProxyIP":"vivo.com.br",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
